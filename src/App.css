@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 30px;
+  background-color: rgb(140, 49, 193);
+  text-align: right;
+  color: white;
+  font-size: 22px;
+}
+
+.form {
+  margin-top: 100px;
+  margin-left: 32px;
+}
+
+label{
+  font-size: 23px;
+}
